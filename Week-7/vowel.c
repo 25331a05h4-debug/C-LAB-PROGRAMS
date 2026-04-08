@@ -18,6 +18,6 @@ int main()
     }
 
     printf("Number of vowels = %d", count);
-
+printf("\n25331A05H4");
     return 0;
 }
