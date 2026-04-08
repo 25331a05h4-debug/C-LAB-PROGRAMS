@@ -23,6 +23,6 @@ int main()
         printf("Strings are equal\n");
     else
         printf("Strings are not equal\n");
-
+printf("\n25331A05H4");
     return 0;
 }
